@@ -1,9 +1,15 @@
-
 <div id="header" align="center">
-  <H1 align="center">Hi there 👋</H1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="C++" width="40" height="40"/>&nbsp;
+
+</div>
 <!--
 **stanouz/stanouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
