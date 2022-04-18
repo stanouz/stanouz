@@ -4,7 +4,7 @@
 
 ---
 
-### : My portfolio
+### :open_book: My portfolio
 https://stanouz.github.io
 
 ---
